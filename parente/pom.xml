@@ -6,16 +6,21 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
+
+
+
+
+
+
+
 	<modules>
-		<module>../modulo1</module>
+		<module>./modulo1</module>
 	</modules>
 
-	
-	
-	
 	<scm>
-		<connection>scm:git:https://github.com/bolognesimarco/maven_tests.git</connection>
-		<url>https://github.com/bolognesimarco</url>
+		<connection>scm:git:git://github.com/bolognesimarco/maven_tests.git</connection>
+		<developerConnection>scm:git:git@github.com:bolognesimarco/maven_tests.git</developerConnection>
+		<url>https://github.com/bolognesimarco/maven_tests</url>
 	</scm>
 
 	<distributionManagement>
@@ -56,4 +61,6 @@
 			</plugins>
 		</pluginManagement>
 	</build>
+
+
 </project>
