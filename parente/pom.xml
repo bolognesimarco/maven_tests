@@ -10,11 +10,7 @@
 		<module>../modulo1</module>
 	</modules>
 
-	<scm>
-		<connection>scm:svn:https://github.com/bolognesimarco/maven_tests</connection>
-		<url>https://github.com/bolognesimarco</url>
-	</scm>
-
+	
 	<distributionManagement>
 		<repository>
 			<id>Lynden-Java-Release</id>
