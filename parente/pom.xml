@@ -14,7 +14,7 @@
 	
 	
 	<scm>
-		<connection>scm:git:https://github.com/bolognesimarco/maven_tests</connection>
+		<connection>scm:git:https://github.com/bolognesimarco/maven_tests.git</connection>
 		<url>https://github.com/bolognesimarco</url>
 	</scm>
 
